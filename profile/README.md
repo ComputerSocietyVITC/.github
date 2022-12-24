@@ -1,6 +1,6 @@
 # IEEE Computer Society, VIT Chennai
 
-![image](https://user-images.githubusercontent.com/67182544/185732369-a16904c9-7162-4b72-8c84-962fe9a6c50f.png)
+![banner](https://user-images.githubusercontent.com/67182544/209433365-4fbb08e1-7dd7-4da5-be55-b9586578938c.png)
 
 <h2><p align="center"><b> Discover, Develop, Deploy</b></p></h2>
 
